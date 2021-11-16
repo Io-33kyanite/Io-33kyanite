@@ -5,7 +5,7 @@
   
 </p>
 
-<h1 align="center">Hi 👋, I'm 33ky-sasaki</h1>
+<h1 align="center">Hi 👋, I'm SASAKI, I.</h1>
 <h3 align="center">A university student majoring computer science in Japan.</h3>
 
 <br>
