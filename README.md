@@ -5,11 +5,16 @@
   
 </p>
 
+
 <h1 align="center">Hi 👋, I'm SASAKI, I.</h1>
 <h3 align="center">A university student majoring computer science in Japan.</h3>
 
 <br>
 
+[![SASAKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=33ky-sasaki)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33ky-sasaki)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 <h4 align="left">Keywords: Location-Based Scienses, Locational Bigdata</h4>
 
 <h4 align="left">My Interests:</h4>
