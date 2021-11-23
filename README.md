@@ -13,8 +13,8 @@
 <br>
 <br>
 
-[![SASAKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=33ky-sasaki)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33ky-sasaki)](https://github.com/anuraghazra/github-readme-stats)
+[![SASAKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Io-33kyanite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Io-33kyanite)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <h4 align="left">Keywords: Location-Based Scienses, Locational Bigdata</h4>
