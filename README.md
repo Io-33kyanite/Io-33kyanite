@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm SASAKI, I.</h1>
 <h3 align="center">A university student majoring computer science in Japan.</h3>
-<h4 align="left">Now, I would love to contribute some OSS projects with my poor skills and experiences. So, I am learning not only programming but also how to approach this vast programmers' world!</p4>
+<h4 align="left">Now, I would love to contribute some OSS projects with my poor skills and experiences. So, I am learning not only programming but also ways of approaching to the vast programmers' world!</p4>
 
 <br>
 <br>
