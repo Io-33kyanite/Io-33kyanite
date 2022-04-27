@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Io-33kyanite)](https://github.com/anuraghazra/github-readme-stats)
 
   
-<h4 align="left">Keywords: Location-Based Scienses, Locational Bigdata</h4>
+<h4 align="left">Keywords: Location-Based Scienses (Services), Locational Bigdata, Human-Centered Computing, Mobile Computing</h4>
 
 <h4 align="left">My Interests:</h4>
 <p align="left"> 
