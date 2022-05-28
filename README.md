@@ -57,7 +57,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-<h4>carrer</h4>
+<h4>career</h4>
 <a href="https://linkedin.com/in/iori33ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iori33ky" height="30" width="40" /></a>
 
 <h4>research activity</h4>
