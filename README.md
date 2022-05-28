@@ -34,16 +34,19 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<h4> My Trajectory </h4> 
+<h4> Trajectory </h4> 
+
 * Swift (my most favorite)
   * Mobile sensor data logging and their presentations (iPhone and Apple Watch)
   * Location-based services for enriching tourists experiences (e.g., georeferences, geofences, personal diary)
   * Mobile Apps architecture (e.g., MVP, MVVM, Clean Architechture)
   * and I am also interested in various technologies!! (e.g., Argumented Reality, Speech Recognition)
+
 * Python
   * Web Apps and APIs by using Django framework
-  * Data analysis
+  * Spatial Data analysis (sometimes using Streamlit)
   * Data structures and algorithms
+
 * MATLAB
   * Mainly using Mapping Toolkit for my research activity
   * Complete "MATLAB 入門 (MATLAB Onramp)" on 2022/05/05. ([Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7c1dbf00-3910-4f03-8532-194fd558a248&))
@@ -57,8 +60,8 @@
 <h4>carrer</h4>
 <a href="https://linkedin.com/in/iori33ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iori33ky" height="30" width="40" /></a>
 
-<h4>research</h4>
-![cropped-hp header 200](https://user-images.githubusercontent.com/57740535/170819921-525ee950-d94c-4eda-9810-b51149e63bc6.png)
+<h4>research activity</h4>
+<a href="http://lab.akita-u.info/sasaki/" target="blank"><img align="center" src="http://lab.akita-u.info/sasaki/wp-content/uploads/2021/12/cropped-hp.header.200.png" alt="sasaki" height="43" width="40" /></a>
 
 
 </p>
