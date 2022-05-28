@@ -19,12 +19,12 @@
   
 <h4 align="left">Keywords: Location-Based Scienses (Services), Locational Bigdata, Human-Centered Computing, Mobile Computing</h4>
 
-<h4 align="left">My Interests:</h4>
+<h3 align="left">My Interests:</h3>
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
@@ -34,7 +34,17 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<!-- My Trajectory:
--  -->
+<h4> My Trajectory </h4> 
 
+* MATLAB
+  * Mainly using Mapping Toolkit for my research activity
+  * Complete "MATLAB 入門 (MATLAB Onramp)" on 2022/05/05. ([Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7c1dbf00-3910-4f03-8532-194fd558a248&))
+  * Complete "MATLABによる統計解析 (Introduction to Statistical Methods with MATLAB)" on 2022/05/22. ([Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=28885025-68a2-4787-ae52-5dfe25b88f30&))
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iori33ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iori33ky" height="30" width="40" /></a>
+</p>
 
