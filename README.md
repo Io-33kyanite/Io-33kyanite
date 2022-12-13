@@ -40,7 +40,7 @@
   * Mobile sensor data logging and their presentations (iPhone and Apple Watch)
   * Location-based services for enriching tourists experiences (e.g., georeferences, geofences, personal diary)
   * Mobile Apps architecture (e.g., MVP, MVVM, Clean Architechture)
-  * and I am also interested in various technologies!! (e.g., Argumented Reality, Speech Recognition)
+  * I am learning AR experiences on iOS devices.
 
 * Python
   * Web Apps and APIs by using Django framework
@@ -72,6 +72,14 @@
 * **「TegaWalk - 秋田大学理工学部 GPS連動音声ガイド」**([App Store](https://apps.apple.com/jp/app/tegawalk-%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-gps%E9%80%A3%E5%8B%95%E9%9F%B3%E5%A3%B0%E3%82%AC%E3%82%A4%E3%83%89/id1635969074)) first release at 2022/07/26
   * An iPhone app that offers location-based audio guides of Department Faculty of Engineering Science in Akita University
   * This was introduced for participants of open campus 2022 on Akita University's HP!
+  * In charge of main developer (with Shibata-san, Tanno-san)
+  * Copyright: 2022, Arikawa lab.
+
+![Icon-60@2x](https://user-images.githubusercontent.com/57740535/207253127-0c23f155-9753-45ca-af2e-9398fdbc343f.png)
+
+* **「KoPpoMai」**([App Store](https://apps.apple.com/app/id1659021039)) first release at 2022/12/11
+  * An iPhone app that IT students can learn basic location-based services by defining their own content of walking tourism.
+  * This was developed for a practical class of akita university, Souzou-Kobo-Jisshu.
   * In charge of main developer
   * Copyright: 2022, Arikawa lab.
 
