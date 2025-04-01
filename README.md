@@ -6,9 +6,10 @@
 </p>
 
 
+
 <h1 align="center">Hi 👋, I'm SASAKI, I.</h1>
-<h3 align="center">A PhD student majoring computer science in Japan.</h3>
-<h4 align="left">Now, I would love to contribute some OSS projects with my poor skills and experiences. So, I am learning not only programming but also ways of approaching to the vast programmers' world!</p4>
+<h3 align="center">A Ph.D. holder in Computer Engineering and a newly appointed faculty member in the Faculty of Informatics and Data Science.</h3>
+<!-- <h4 align="left">Now, I would love to contribute some OSS projects with my poor skills and experiences. So, I am learning not only programming but also ways of approaching to the vast programmers' world!</p4> -->
 
 <br>
 <br>
