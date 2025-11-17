@@ -14,28 +14,75 @@
 <br>
 <br>
 
-[![SASAKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Io-33kyanite)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Io-33kyanite)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-<h4 align="left">Keywords: Location-Based Scienses (Services), Locational Bigdata, Human-Centered Computing, Mobile Computing</h4>
+<h3 align="left">Most Used Languages:</h3>
 
-<h3 align="left">My Interests:</h3>
+| Language | Proficiency? | Comments |
+| --- | --- | --- |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> Swift| 👍👍👍👍👍 | I love iOS programming. |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python     | 👍👍👍👍👍 | Mainly used for my research. |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>JavaScript | 👍👍👍   | Sometimes I enjoy web programming.
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>Java       | 👍👍    | Used in my programming class.
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>PHP | 👍👍    | Used in my data base class.
+
+<h3 align="left">My Favorite Frameworks:</h3>
 <p align="left"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<h4> Trajectory </h4> 
+<br>
+
+<h3 align="left">My Works:</h3>
+
+---
+
+<img width="120" height="120" alt="ora_logo" src="https://github.com/user-attachments/assets/c9178610-4b21-4833-a2d1-7f301c100403" />
+
+* **「Onsite Radio AI - 場所ベースのラジオ生成AI」**([App Store](https://apps.apple.com/jp/app/ora-%E3%82%AA%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%83%A9%E3%82%B8%E3%82%AAai/id6746374852)) first release at 2025/05.
+  * An iPhone app
+  * In charge of main developer
+  * Copyright: 2024, Arikawa lab.
+ 
+---
+
+![kitsune-aruki-icon-120px](https://user-images.githubusercontent.com/57740535/180912795-c0bedb4e-ad33-4be5-be34-82ffa1f5396e.png)
+
+* **「きつねあるき - あきた羽州街道まち歩きガイドアプリ」**([App Store](https://apps.apple.com/jp/app/%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%82%E3%82%8B%E3%81%8D-%E3%81%82%E3%81%8D%E3%81%9F%E7%BE%BD%E5%B7%9E%E8%A1%97%E9%81%93%E3%81%BE%E3%81%A1%E6%AD%A9%E3%81%8D%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1634388136)) first release at 2022/07/24
+  * An iPhone app that offers location-based guides of walking tourism in Akita City with illustrated maps and local histories
+  * Greatly supported by Akita City and Akita people!
+  * In charge of main developer
+  * Copyright: 2022, Arikawa lab. 
+
+---
+
+![120](https://user-images.githubusercontent.com/57740535/180913205-e9a9d014-012e-4427-9c97-4ff87d2c3840.png)
+
+* **「TegaWalk - 秋田大学理工学部 GPS連動音声ガイド」**([App Store](https://apps.apple.com/jp/app/tegawalk-%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-gps%E9%80%A3%E5%8B%95%E9%9F%B3%E5%A3%B0%E3%82%AC%E3%82%A4%E3%83%89/id1635969074)) first release at 2022/07/26
+  * An iPhone app that offers location-based audio guides of Department Faculty of Engineering Science in Akita University
+  * This was introduced for participants of open campus 2022 on Akita University's HP!
+  * In charge of main developer (with Shibata-san, Tanno-san)
+  * Copyright: 2022, Arikawa lab.
+
+---
+
+![Icon-60@2x](https://user-images.githubusercontent.com/57740535/207253127-0c23f155-9753-45ca-af2e-9398fdbc343f.png)
+
+* **「KoPpoMai」**([App Store](https://apps.apple.com/app/id1659021039)) first release at 2022/12/11
+  * An iPhone app that IT students can learn basic location-based services by defining their own content of walking tourism.
+  * This was developed for a practical class of akita university, Souzou-Kobo-Jisshu.
+  * In charge of main developer
+  * Copyright: 2022, Arikawa lab.
+
+---
+
+<h3> My Learning Trajectory </h3> 
 
 * Swift (my most favorite)
   * Mobile sensor data logging and their presentations (iPhone and Apple Watch)
@@ -56,44 +103,3 @@
   * Complete "機械学習入門 (Machine Learning Onramp)" on 2022/07/29. ([Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=84966e95-fbcd-45fd-b992-3a53a868ffb1&))
 
 ...And I have learned C, Java, Javascript and R a little bit.
-
-
-<h3 align="left">Works:</h3>
-
-![kitsune-aruki-icon-120px](https://user-images.githubusercontent.com/57740535/180912795-c0bedb4e-ad33-4be5-be34-82ffa1f5396e.png)
-
-* **「きつねあるき - あきた羽州街道まち歩きガイドアプリ」**([App Store](https://apps.apple.com/jp/app/%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%82%E3%82%8B%E3%81%8D-%E3%81%82%E3%81%8D%E3%81%9F%E7%BE%BD%E5%B7%9E%E8%A1%97%E9%81%93%E3%81%BE%E3%81%A1%E6%AD%A9%E3%81%8D%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1634388136)) first release at 2022/07/24
-  * An iPhone app that offers location-based guides of walking tourism in Akita City with illustrated maps and local histories
-  * Greatly supported by Akita City and Akita people!
-  * In charge of main developer
-  * Copyright: 2022, Arikawa lab. 
-  
-![120](https://user-images.githubusercontent.com/57740535/180913205-e9a9d014-012e-4427-9c97-4ff87d2c3840.png)
-
-* **「TegaWalk - 秋田大学理工学部 GPS連動音声ガイド」**([App Store](https://apps.apple.com/jp/app/tegawalk-%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-gps%E9%80%A3%E5%8B%95%E9%9F%B3%E5%A3%B0%E3%82%AC%E3%82%A4%E3%83%89/id1635969074)) first release at 2022/07/26
-  * An iPhone app that offers location-based audio guides of Department Faculty of Engineering Science in Akita University
-  * This was introduced for participants of open campus 2022 on Akita University's HP!
-  * In charge of main developer (with Shibata-san, Tanno-san)
-  * Copyright: 2022, Arikawa lab.
-
-![Icon-60@2x](https://user-images.githubusercontent.com/57740535/207253127-0c23f155-9753-45ca-af2e-9398fdbc343f.png)
-
-* **「KoPpoMai」**([App Store](https://apps.apple.com/app/id1659021039)) first release at 2022/12/11
-  * An iPhone app that IT students can learn basic location-based services by defining their own content of walking tourism.
-  * This was developed for a practical class of akita university, Souzou-Kobo-Jisshu.
-  * In charge of main developer
-  * Copyright: 2022, Arikawa lab.
-
-<h3 align="left">About me:</h3>
-<p align="left">
-<h4>career</h4>
-<a href="https://linkedin.com/in/iori33ky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iori33ky" height="30" width="40" /></a>
-
-<h4>research activity</h4>
-<a href="http://lab.akita-u.info/sasaki/" target="blank"><img align="center" src="http://lab.akita-u.info/sasaki/wp-content/uploads/2021/12/cropped-hp.header.200.png" alt="sasaki" height="43" width="40" /></a>
-
-
-</p>
-
-
-
