@@ -23,7 +23,7 @@
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python     | 👍👍👍👍👍 | Mainly used for my research. |
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>JavaScript | 👍👍👍   | Sometimes I enjoy web programming.
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>Java       | 👍👍    | Used in my programming class.
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>PHP | 👍👍    | Used in my data base class.
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>PHP | 👍👍    | Used in my database class.
 
 <br>
 
