@@ -43,42 +43,66 @@
 
 <h2 align="left">💎 My Works:</h2>
 
-<img width="120" height="120" alt="ora_logo" src="https://github.com/user-attachments/assets/c9178610-4b21-4833-a2d1-7f301c100403" />
+<h3>Onsite Radio AI - 場所ベースのラジオ生成AI</h3>
 
-* **「Onsite Radio AI - 場所ベースのラジオ生成AI」**([App Store](https://apps.apple.com/jp/app/ora-%E3%82%AA%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%83%A9%E3%82%B8%E3%82%AAai/id6746374852)) first release at 2025/05.
-  * Generative audio guide driven by hierarchical geofencing and large language models.
-  * In charge of main developer
-  * Copyright: 2024, Arikawa lab.
+| App Logo | Demo |
+| --- | --- |
+| <img width="120" height="120" alt="ora_logo" src="https://github.com/user-attachments/assets/c9178610-4b21-4833-a2d1-7f301c100403" /> | ![onsite_radio_ai_teaser_gif_version](https://github.com/user-attachments/assets/b516b697-6048-4709-8987-6a56f8b72aec) |
+
+Generative audio guide driven by hierarchical geofencing and large language models.
+
+([App Store](https://apps.apple.com/jp/app/ora-%E3%82%AA%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%83%A9%E3%82%B8%E3%82%AAai/id6746374852)) 
+([Website](https://sasaki33ky.notion.site/onsite-radio-ai))
+
+* First release in May 2025.
+* In charge of main developer
+* Copyright: 2024, Arikawa lab.
  
 ---
 
+<h3>きつねあるき - あきた羽州街道まち歩きガイドアプリ</h3>
+
 ![kitsune-aruki-icon-120px](https://user-images.githubusercontent.com/57740535/180912795-c0bedb4e-ad33-4be5-be34-82ffa1f5396e.png)
 
-* **「きつねあるき - あきた羽州街道まち歩きガイドアプリ」**([App Store](https://apps.apple.com/jp/app/%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%82%E3%82%8B%E3%81%8D-%E3%81%82%E3%81%8D%E3%81%9F%E7%BE%BD%E5%B7%9E%E8%A1%97%E9%81%93%E3%81%BE%E3%81%A1%E6%AD%A9%E3%81%8D%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1634388136)) first release at 2022/07/24
-  * Location-based guides of walking tourism in Akita City with illustrated maps and local histories.
-  * Greatly supported by Akita City and Akita people!
-  * In charge of main developer
-  * Copyright: 2022, Arikawa lab. 
+Location-based guides of walking tourism in Akita City with illustrated maps and local histories.
+
+([App Store](https://apps.apple.com/jp/app/%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%82%E3%82%8B%E3%81%8D-%E3%81%82%E3%81%8D%E3%81%9F%E7%BE%BD%E5%B7%9E%E8%A1%97%E9%81%93%E3%81%BE%E3%81%A1%E6%AD%A9%E3%81%8D%E3%82%AC%E3%82%A4%E3%83%89%E3%82%A2%E3%83%97%E3%83%AA/id1634388136))
+([Website](https://ushuu.akita-u.info))
+
+* First release on Jul 24, 2022.
+* Greatly supported by Akita City and Akita people!
+* In charge of main developer
+* Copyright: 2022, Arikawa lab. 
 
 ---
+
+<h3>TegaWalk - 秋田大学理工学部 GPS連動音声ガイド</h3>
 
 ![120](https://user-images.githubusercontent.com/57740535/180913205-e9a9d014-012e-4427-9c97-4ff87d2c3840.png)
 
-* **「TegaWalk - 秋田大学理工学部 GPS連動音声ガイド」**([App Store](https://apps.apple.com/jp/app/tegawalk-%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-gps%E9%80%A3%E5%8B%95%E9%9F%B3%E5%A3%B0%E3%82%AC%E3%82%A4%E3%83%89/id1635969074)) first release at 2022/07/26
-  * Location-based audio guides of Department Faculty of Engineering Science in Akita University
-  * This was introduced for participants of open campus 2022 on Akita University's HP!
-  * In charge of main developer (with Shibata-san, Tanno-san)
-  * Copyright: 2022, Arikawa lab.
+Location-based audio guides of Department Faculty of Engineering Science in Akita University
+
+([App Store](https://apps.apple.com/jp/app/tegawalk-%E7%A7%8B%E7%94%B0%E5%A4%A7%E5%AD%A6%E7%90%86%E5%B7%A5%E5%AD%A6%E9%83%A8-gps%E9%80%A3%E5%8B%95%E9%9F%B3%E5%A3%B0%E3%82%AC%E3%82%A4%E3%83%89/id1635969074)) [No Longer Available]
+
+* First release on Jul 26, 2022.
+* This was introduced for participants of open campus 2022 on Akita University's HP!
+* In charge of main developer (with Shibata-san, Tanno-san)
+* Copyright: 2022, Arikawa lab.
 
 ---
 
+<h3>KoPpoMai - マップストーリーテリング作成支援アプリ</h3>
+
 ![Icon-60@2x](https://user-images.githubusercontent.com/57740535/207253127-0c23f155-9753-45ca-af2e-9398fdbc343f.png)
 
-* **「KoPpoMai」**([App Store](https://apps.apple.com/app/id1659021039)) first release at 2022/12/11
-  * An educational iPhone app that IT students can learn basic location-based technologies through map storytelling creation.
-  * This was developed for Creative Practice class in Akita University.
-  * In charge of main developer
-  * Copyright: 2022, Arikawa lab.
+An educational iPhone app that IT students can learn basic location-based technologies through map storytelling creation.
+
+([App Store](https://apps.apple.com/app/id1659021039)) 
+
+* First release on Dec 11, 2022.
+* This was developed for Creative Practice class in Akita University.
+* In charge of main developer
+* Copyright: 2022, Arikawa lab.
 
 <br>
 
